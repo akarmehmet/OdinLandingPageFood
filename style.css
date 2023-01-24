@@ -1,0 +1,38 @@
+
+
+.header{
+    color:white;
+    background-color: #1F2937;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+.header-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    
+}
+.header-nav-links{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+}
+.header-body{
+    display: flex;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+button{
+    background-color:#3882F6;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 5px 15px;
+    
+}
